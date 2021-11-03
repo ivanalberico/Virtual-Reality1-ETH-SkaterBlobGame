@@ -9,6 +9,28 @@ Virtual Reality I course project, ETH Zürich (Spring 2021). The project consist
 <br/><br/>  
 <br/><br/>  
 
+# Snippets from the game
+
+
+https://user-images.githubusercontent.com/64502909/140174587-fa9742b6-2d1b-4343-8d38-104abbd30ad9.mp4
+
+
+https://user-images.githubusercontent.com/64502909/140175554-e57b753b-5611-4b14-a4b0-da64a0d96fb4.mp4
+
+
+https://user-images.githubusercontent.com/64502909/140174789-3ebd750f-e2a0-48b7-ad3f-b5d282ff20e1.mp4
+
+
+https://user-images.githubusercontent.com/64502909/140174803-c2a48797-c321-4607-a006-1a486ecac929.mp4
+
+
+https://user-images.githubusercontent.com/64502909/140174820-10f05a34-e64b-46f4-aad9-6603fda328bf.mp4
+
+
+https://user-images.githubusercontent.com/64502909/140174831-11858e51-e006-44c1-b8ff-d88725b8924b.mp4
+
+
+
 
 # Pictures from the game
 
@@ -29,9 +51,3 @@ Virtual Reality I course project, ETH Zürich (Spring 2021). The project consist
 <br/><br/>  
 <br/><br/>  
 
-
-# Presentation video
-
-
-
-https://user-images.githubusercontent.com/64502909/140170288-62f38ca9-fb1a-43a8-8a46-6c35d37656be.mp4
