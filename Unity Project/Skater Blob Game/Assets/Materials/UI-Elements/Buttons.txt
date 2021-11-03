@@ -1,0 +1,3 @@
+-Aus Alphakanal auswählen
+-Auswahl > Rand > 2px
+-Gauss 5px
