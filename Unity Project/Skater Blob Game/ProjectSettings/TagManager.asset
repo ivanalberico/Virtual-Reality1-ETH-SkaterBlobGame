@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rail
+  - Platform6
+  - Platform7
+  - Platform9
+  - Platform5
+  - Platform1
+  - Platform8
+  - Platform4
+  - Platform3
+  - Platform2
+  - Coin(3)
+  - Level2
+  - Coin(4)(6)
+  - Coin(4)(4)
+  - Coin(4)(3)
+  - Coin(4)(5)
+  - Coin(4)(1)
+  - Coin(4)(2)
+  - Coin(4)(7)
+  - Coin(4)(8)
+  - Level3
+  - Coin(1)
+  - Coin(2)
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
